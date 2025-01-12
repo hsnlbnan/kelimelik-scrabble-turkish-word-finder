@@ -10,10 +10,12 @@
     "fetch-words": "tsx scripts/fetch-words.ts"
   },
   "dependencies": {
+    "framer-motion": "^11.17.0",
     "lucide-react": "^0.471.0",
     "next": "15.1.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "sonner": "^1.7.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
